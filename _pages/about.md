@@ -13,6 +13,13 @@ redirect_from:
 👨‍🎓 Welcome to my personal academic website! My name is Liu Wei. I completed my undergraduate education at [The Harbin Insititute of Technology](http://en.hit.edu.cn/) (HIT) where I earned B.E. Degree in Electronic Informatio Engineering. Continuing my pursuit of knowledge, I furthered my education to start my postgraduate studies at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK). Now I am a fifth-year PhD student in the Department of Electronic Engineering supervised by [Prof. Tan LEE](https://www.ee.cuhk.edu.hk/~tanlee/). My research direction is **speech and language processing**, especially for enhancing efficiency and reliability of Automatic Speech Recognition (ASR) system. Recently I am intersted in speech related **large multimodal model (LMM) for general speech understanding**. 😉 Feel free to explore my website to learn more about my research interests! 
 {: style="text-align: justify"}
 
+### Research Interests
+---
+Speech and Language Processing, Automatic Speech Recognition (ASR), End- o-end ASR, Children Speech Recognition, and Neural Confidence Measure for ASR. Self-supervised learning, Speech Representation Learning, Domain adaptation, and Parameter-efficient Fine-tuning (PEFT).
+{: style="text-align: justify"}
+\
+Large Language Model (LLM) for Speech/Audio and Multi-modality Understanding via LLM, etc.
+{: style="text-align: justify"}
 <br/>
 
 Selected Experiences
