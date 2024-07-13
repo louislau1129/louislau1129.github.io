@@ -17,7 +17,7 @@ redirect_from:
 ---
 Speech and Language Processing, Automatic Speech Recognition (ASR), End- o-end ASR, Children Speech Recognition, and Neural Confidence Measure for ASR. Self-supervised learning, Speech Representation Learning, Domain adaptation, and Parameter-efficient Fine-tuning (PEFT).
 {: style="text-align: justify"}
-Large Language Model (LLM) for Speech/Audio and Multi-modality Understanding via LLM, etc.
+🎈 Large Language Model (LLM) for Speech/Audio and Multi-modality Understanding via LLM, etc.
 {: style="text-align: justify"}
 <br/>
 
