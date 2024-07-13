@@ -30,7 +30,7 @@ Selected Experiences
 
 Future Plans
 ======
-- [ ] Record my research progress, paper reading and sharing thoughts here. 
+[ ]  Record my research plan & progress, paper reading and sharing thoughts here. 
 
 
 For more info
