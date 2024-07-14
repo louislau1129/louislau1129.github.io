@@ -19,6 +19,7 @@ Welcome to our blog page! Here, you will find a variety of insightful posts rela
 ### 💎 Research Ideas
 ---
 - LLM-based ASR
+
 ![sequence compression for llm-asr](/images/llm-asr-idea1.png){: style="margine-top: 20px; margine-bottom: 20px"}
 ------
 
