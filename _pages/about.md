@@ -10,7 +10,7 @@ redirect_from:
 ![human talks to robot](/images/bg.png){: style="float: right; width: 400px; margin-left: 20px;"}
 
 ---
-👨‍🎓 Welcome to my personal academic website! My name is Liu Wei. I completed my undergraduate education at [The Harbin Insititute of Technology](http://en.hit.edu.cn/) (HIT) where I earned B.E. Degree in Electronic Informatio Engineering. Continuing my pursuit of knowledge, I furthered my education to start my postgraduate studies at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK). Now I am a fifth-year PhD student in the Department of Electronic Engineering supervised by [Prof. Tan LEE](https://www.ee.cuhk.edu.hk/~tanlee/). My research direction is **Speech and Language Processing**, especially for enhancing ⛸Efficiency and 🦾Reliability of Automatic Speech Recognition (ASR) system. Recently I am interested in speech related **Large Multimodal Model (LMM) for general speech understanding**. 😉 Feel free to explore my website to learn more about my research interests! 
+👨‍🎓 Welcome to my personal academic website! My name is Liu Wei. I completed my undergraduate education at [The Harbin Insititute of Technology](http://en.hit.edu.cn/) (HIT) where I earned B.E. Degree in Electronic Information Engineering. Continuing my pursuit of knowledge, I furthered my education to start my postgraduate studies at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK). Now I am a fifth-year PhD student in the Department of Electronic Engineering supervised by [Prof. Tan LEE](https://www.ee.cuhk.edu.hk/~tanlee/). My research direction is **Speech and Language Processing**, especially for enhancing the ⛸Efficiency and 🦾Reliability of Automatic Speech Recognition (ASR) system. Recently I am interested in speech related **Large Multimodal Model (LMM) for general speech understanding**. 😉 Feel free to explore my website to learn more about my research interests! 
 {: style="text-align: justify"}
 
 ### Research Interests
@@ -39,7 +39,8 @@ Selected Experiences
 
 Future Plans
 ======
-[ ]  Record my research plan & progress, paper reading and sharing thoughts. 
+- Record my research plan & progress, paper reading and sharing thoughts. 
+- Refer to the `Blog` Tab.
 
 
 For more info
