@@ -20,7 +20,9 @@ Welcome to our blog page! Here, you will find a variety of insightful posts rela
 ---
 - LLM-based ASR
 ![sequence compression for llm-asr](/images/llm-asr-idea1.png){: style="margine-top: 20px; margine-bottom: 20px"}
----
+------
+
+
 a. alignment pretrain + info-preserve subsampling (lowres + qformer) for efficiency 
 1. token resolution for asr from 20ms → 200ms →333ms →1s
 2. **references:** mini-gemini (patch info mining) + GAMA multi-layer aggregator + VoCo-LLama + DeepStack (inject the high-res info without incresing the context length)\
