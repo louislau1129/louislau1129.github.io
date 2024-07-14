@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my 📕Blog world!"
+# title: "Welcome to my 📕Blog world!"
 collection: blog
 permalink: /blog/outline
 ---
