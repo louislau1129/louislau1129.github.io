@@ -1,4 +1,8 @@
-
+---
+title: "Welcome to my 📕Blog world!"
+collection: blog
+permalink: /blog/outline
+---
 
 # Welcome to my 📕Blog world!
 
