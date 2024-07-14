@@ -33,4 +33,4 @@ c. contextual biasing aware training via prompt
 
 ### ⚙ Experimental Configs
 ---
-- [Distributed Training Config](https://denim-fog-71c.notion.site/Distributed-Training-Config-4baa14a835424366a336c7edfd389815)
+- [Distributed Training Config](https://denim-fog-71c.notion.site/Distributed-Training-Config-4baa14a835424366a336c7edfd389815)  (Deepspeed vs DDP)
