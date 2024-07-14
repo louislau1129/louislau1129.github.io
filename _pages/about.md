@@ -26,9 +26,9 @@ Selected Experiences
 
 ### 🙋‍♂️ Internships
 ------
-1. [June 2022 - Oct 2022] Research intern at Speech & Audio Team, AI Lab, ByteDance 
+1. [Mar 2024 - June 2024] Research intern at Audio Team, Xiaohongshu
 2. [Aug 2023 - Feb 2024]  Research intern at GVoice Team, Tencent 
-3. [Mar 2024 - June 2024] Research intern at Audio Team, Xiaohongshu 
+3. [June 2022 - Oct 2022] Research intern at Speech & Audio Team, AI Lab, ByteDance 
 
 ### 🐱‍🏍 Challenges
 ---
