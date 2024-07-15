@@ -17,6 +17,10 @@ main:
     
   - title: "CV"
     url: /files/louislau_CV.pdf
+  
+  - title: "CV_zh"
+    url: /files/louislau_CV_zh.pdf
+
 
   - title: "Blog"
     url: /blog/
